@@ -4,7 +4,7 @@ var insects = [
     img: 'ant-nest-beetle.jpg',
     family: 'Carabidae',
     size: [6, 20],
-    food:
+    food: 'eatsInsects'
   },
   {
     name: 'Dung Beetle',
